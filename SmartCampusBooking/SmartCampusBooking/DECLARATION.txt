@@ -1,0 +1,14 @@
+DECLARATION OF ORIGINALITY
+
+I hereby declare that this assignment is my own work and has not been
+copied from any other source except where due acknowledgment is made.
+I affirm that all sources used have been properly cited and that this
+submission complies with the institution's policies on academic integrity
+and plagiarism.
+
+Student Signature: ___________________________
+Date: _______________
+
+Project: Smart Campus Resource Booking System
+Module: PROGRAMMING 512
+Institution: Richfield Graduate Institution
